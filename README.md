@@ -1,7 +1,7 @@
 # WINE-QUALITY-PREDICTION
 DESCRIPTION:
 
-To predict the quality of wine using random forest algorithm with the help of dashboard created using streamlit library.
+To predict the quality of wine as good quality or bad quality after the user gives inputs of different ingredients using random forest algorithm with the help of dashboard created using streamlit library.
 
 SCREENSHOTS:
 
